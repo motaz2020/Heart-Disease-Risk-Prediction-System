@@ -1,0 +1,44 @@
+--- Performance for Logistic Regression ---
+              precision    recall  f1-score   support
+
+           0       0.90      0.85      0.88        33
+           1       0.83      0.89      0.86        28
+
+    accuracy                           0.87        61
+   macro avg       0.87      0.87      0.87        61
+weighted avg       0.87      0.87      0.87        61
+
+
+--- Performance for Decision Tree ---
+              precision    recall  f1-score   support
+
+           0       0.83      0.76      0.79        33
+           1       0.74      0.82      0.78        28
+
+    accuracy                           0.79        61
+   macro avg       0.79      0.79      0.79        61
+weighted avg       0.79      0.79      0.79        61
+
+
+--- Performance for Random Forest ---
+              precision    recall  f1-score   support
+
+           0       0.94      0.91      0.92        33
+           1       0.90      0.93      0.91        28
+
+    accuracy                           0.92        61
+   macro avg       0.92      0.92      0.92        61
+weighted avg       0.92      0.92      0.92        61
+
+
+--- Performance for SVM ---
+              precision    recall  f1-score   support
+
+           0       0.94      0.91      0.92        33
+           1       0.90      0.93      0.91        28
+
+    accuracy                           0.92        61
+   macro avg       0.92      0.92      0.92        61
+weighted avg       0.92      0.92      0.92        61
+
+
